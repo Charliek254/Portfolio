@@ -72,3 +72,10 @@ nav ul li a {
   top: 42%;
   transform: translate(-13%,-42%);
 }
+.dp {
+  height: 500px;
+  position: absolute;
+  bottom: 0;
+  left: 70%;
+  transform: translateX(-70%);
+}
