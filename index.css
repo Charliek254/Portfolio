@@ -16,3 +16,30 @@ section {
   background: linear-gradient(90deg, rgba(255,255,255,1) 60%, rgba(242,242,242,1) 60%);
   background-size: cover;
 }
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px 12px rgb(0, 0, 0,0.2);
+  padding: 0 5%;
+}
+nav ul {
+  display: flex;
+}
+nav ul li a {
+  margin: 30px;
+  color: #505050;
+  font-size: 15px;
+  font-weight: 700;
+}
+.logo {
+  font-family: 'Monoton', cursive;
+  color: rgb(0, 31, 4);
+  font-size: 22px;
+}
+.active {
+  font-weight: bold;
+  color: #07dbd1;
+}
