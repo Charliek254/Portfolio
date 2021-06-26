@@ -89,3 +89,43 @@ nav ul li a {
   margin: -7% auto 20px auto;
   position: relative;
 }
+.about {
+  color: #ffffff;
+}
+.aboutme {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  padding-top: 30px;
+  margin-top: 60px;
+  margin-left: -560px;
+  margin-right: 50px;
+}
+.about h1 {
+  text-align: center;
+  color: #000;
+  padding-left: 500px;
+}
+.abouttext {
+  width: 250px;
+  height: 200px;
+  background-color: rgb(0, 0, 0);
+  margin-right: 80px;
+  text-align: center;
+}
+.abouttext2 {
+  width: 250px;
+  height: 200px;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  margin-right: 80px;
+}
+.abouttext3 {
+  width: 250px;
+  height: 200px;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+}
+.abouttext p {
+  padding-top: 50px;
+}
